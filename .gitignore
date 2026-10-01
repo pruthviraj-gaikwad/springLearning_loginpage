@@ -1,0 +1,11 @@
+# Editor / tool generated folders (not part of the application)
+.vscode/
+.github/modernize/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets are ignored inside backend/ and frontend/ too; repeated here as a safety net
+.env
+**/.env
